@@ -1,2 +1,2 @@
 # dsci-100-project_template
-Template project repository for DSCI-100
+DSCI 100 group project for 2022 Term 1
